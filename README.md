@@ -123,6 +123,8 @@
 ### streamlit run app.py
 ## Open Browser
 ### (http://localhost:8507)
+## flight price pkl
+https://drive.google.com/file/d/1Wz9R2qOu5MzLyHnwLLqe21RQGRB3H5Al/view?usp=drive_link
 
 streamli cloud community 
 https://ceq75jknsylmsignrsniq2.streamlit.app/
