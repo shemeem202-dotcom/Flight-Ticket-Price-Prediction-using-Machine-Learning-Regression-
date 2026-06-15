@@ -124,6 +124,9 @@
 ## Open Browser
 ### (http://localhost:8507)
 
+streamli cloud community 
+https://ceq75jknsylmsignrsniq2.streamlit.app/
+
 ##  Conclusion
 
 ### This project successfully developed a Flight Ticket Price Prediction system using Machine Learning. Five regression algorithms were evaluated, and Random Forest Regressor achieved the highest accuracy. The final model was integrated into an automated pipeline and deployed using Streamlit, enabling users to obtain real-time flight ticket price predictions through an interactive web application. This project demonstrates practical machine learning implementation from data preprocessing to deployment in a real-world environment.
